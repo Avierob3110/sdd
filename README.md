@@ -24,11 +24,26 @@ Tags: [markdown,IA,prompt]
 
 ---
 ## Unidades Didácticas
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ---
 ## Pruebas prácticas
-### ![LogotipoIES](https://www.google.com/imgres?q=logotipo%20IES%20numero%201%20fuengirola&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Finstagram%2Fiesfuengirola1%2Fprofile_pic.jpg&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fiesfuengirola1%2F&docid=zxd6a7gxSepFpM&tbnid=ssWZxHcRzaaQtM&vet=12ahUKEwjGm7Cq1YGXAxW98wIHHetuHeQQnPAOegQIPxAA..i&w=602&h=602&hcb=2&ved=2ahUKEwjGm7Cq1YGXAxW98wIHHetuHeQQnPAOegQIPxAA)
+### ![LogotipoIES](https://www.iesfuengirola1.es/wp-content/uploads/2023/03/logo_web_ies_luto.png")
 ---
 ## Webgrafía
 - LLM [OLLAMMA](https://ollama.com)
 ---
+## Test texto
+-- aaaa
+-- *aaaa*
+-- **aaaa**
+-- ***aaaa***
+## Código Ejemplo
+``` C#
+printf("Hello World");
+
+```
+
